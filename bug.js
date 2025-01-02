@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that hasn't been imported correctly.  This can happen due to typos in the import statement, incorrect file paths, or issues with the module resolution system.  It's a common error but can be tricky to debug, especially when working with complex project structures or third-party libraries.
