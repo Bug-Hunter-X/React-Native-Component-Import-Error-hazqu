@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug related to importing components. The `bug.js` file shows the incorrect import, resulting in a runtime error. The `bugSolution.js` file provides the correct way to import the component.  The error typically manifests as a runtime error stating that the component is not found or undefined.
